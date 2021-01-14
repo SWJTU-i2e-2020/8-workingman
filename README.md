@@ -87,7 +87,8 @@
 &#8195;&#8195;可以为珍惜植物检测生存环境，创造良好的成长条件；可以为珍稀动物的培育（胚胎，幼体，受精卵培育）创造一定条件。
 #9.详细设计#
 ##BOM单##
-|ID	|Name|	Designator|	Footprint|	Quantity|	Manufacturer Part|	Manufacturer| Supplier |Supplier Part|
+
+| ID	| Name |	Designator |	Footprint |	Quantity |	Manufacturer Part |	Manufacturer | Supplier | Supplier Part |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | 
 |1	|DHT11	|U3	|SENSOR-TH_DHT11	|1	|DHT11	|Aosong (Guangzhou) Elec	|LCSC	|C117051|
 |2	|TMB12A24_C781862	|BUZZER1	|BUZ-TH_BD12.0-P7.60-D0.6-FD	|1	|TMB12A24	|YUEXIN	|LCSC	|C781862|
